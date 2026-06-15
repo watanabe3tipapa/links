@@ -35,6 +35,8 @@ watanabe3tipapa の複数サブサイトを一元管理するリンク集。
 | neo | https://watanabe3ti.com/neo/ | Mac OS 9 デスクトップ（サブパス版） | Site |
 | beos | https://watanabe3ti.com/beos/ | BeOS デスクトップ環境 | Site |
 | osx | https://watanabe3ti-osx.vercel.app | macOS Web デスクトップ | Site |
+| wiki | https://wiki.watanabe3ti.com/wiki3/ | 個人Wiki・備忘録 | Site |
+| next-path | https://watanabe3ti.com/next/ | Takeoff to Wonder ランディング | Site |
 
 ---
 

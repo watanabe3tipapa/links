@@ -40,5 +40,17 @@
     "url": "https://watanabe3ti-osx.vercel.app",
     "desc": "macOS Web デスクトップ",
     "category": "Site"
+  },
+  {
+    "title": "wiki",
+    "url": "https://wiki.watanabe3ti.com/wiki3/",
+    "desc": "個人Wiki・備忘録",
+    "category": "Site"
+  },
+  {
+    "title": "next-path",
+    "url": "https://watanabe3ti.com/next/",
+    "desc": "Takeoff to Wonder ランディング",
+    "category": "Site"
   }
 ]
