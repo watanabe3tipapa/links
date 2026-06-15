@@ -72,6 +72,12 @@
     "category": "TOOL"
   },
   {
+    "title": "moji-code",
+    "url": "https://watanabe3tipapa.github.io/moji-code/",
+    "desc": "文字コード変換ツール",
+    "category": "TOOL"
+  },
+  {
     "title": "release-tracker",
     "url": "https://release-tracker.watanabe3ti.workers.dev",
     "desc": "リリーストラッカー",
