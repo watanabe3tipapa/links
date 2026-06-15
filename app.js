@@ -10,6 +10,7 @@ const palette = [
   'card-color-lime',
   'card-color-orange',
   'card-color-lavender',
+  'card-color-coral',
 ];
 
 let allSites = [];

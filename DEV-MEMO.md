@@ -32,6 +32,9 @@ watanabe3tipapa の複数サブサイトを一元管理するリンク集。
 | next | https://next.watanabe3ti.com | 次世代パブリッシング（Quarto） | Site |
 | toolsmith | https://toolsmith.watanabe3ti.com | Toolsmith プロジェクト | Site |
 | log | https://log.watanabe3ti.com | ブログ・ログ | Site |
+| neo | https://watanabe3ti.com/neo/ | Mac OS 9 デスクトップ（サブパス版） | Site |
+| beos | https://watanabe3ti.com/beos/ | BeOS デスクトップ環境 | Site |
+| osx | https://watanabe3ti-osx.vercel.app | macOS Web デスクトップ | Site |
 
 ---
 

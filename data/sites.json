@@ -22,5 +22,23 @@
     "url": "https://log.watanabe3ti.com",
     "desc": "ブログ・ログ",
     "category": "Site"
+  },
+  {
+    "title": "neo",
+    "url": "https://watanabe3ti.com/neo/",
+    "desc": "Mac OS 9 デスクトップ（サブパス版）",
+    "category": "Site"
+  },
+  {
+    "title": "beos",
+    "url": "https://watanabe3ti.com/beos/",
+    "desc": "BeOS デスクトップ環境",
+    "category": "Site"
+  },
+  {
+    "title": "osx",
+    "url": "https://watanabe3ti-osx.vercel.app",
+    "desc": "macOS Web デスクトップ",
+    "category": "Site"
   }
 ]

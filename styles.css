@@ -257,6 +257,7 @@ footer {
 .card-color-lime { background: #D4FFC8; }
 .card-color-orange { background: #FFE0B2; }
 .card-color-lavender { background: #E8D6FF; }
+.card-color-coral { background: #FFC0B0; }
 
 @media (max-width: 640px) {
   .site-header {
