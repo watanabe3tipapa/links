@@ -40,6 +40,8 @@ watanabe3tipapa の複数サブサイトを一元管理するリンク集。
 | quarto-editor | https://quarto-editor-pe.vercel.app | Quarto Editor PE | TOOL |
 | right-stuff-editor | https://right-stuff-editor.vercel.app | Right Stuff Editor | TOOL |
 | toolsmith-editor | https://toolsmith-editor.vercel.app | Toolsmith Editor | TOOL |
+| release-tracker | https://release-tracker.watanabe3ti.workers.dev | リリーストラッカー | SERVICEs |
+| astro-output | https://astro-output.watanabe3ti.workers.dev | Astro 出力 | SERVICEs |
 
 ---
 

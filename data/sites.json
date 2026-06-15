@@ -70,5 +70,17 @@
     "url": "https://toolsmith-editor.vercel.app",
     "desc": "Toolsmith Editor",
     "category": "TOOL"
+  },
+  {
+    "title": "release-tracker",
+    "url": "https://release-tracker.watanabe3ti.workers.dev",
+    "desc": "リリーストラッカー",
+    "category": "SERVICEs"
+  },
+  {
+    "title": "astro-output",
+    "url": "https://astro-output.watanabe3ti.workers.dev",
+    "desc": "Astro 出力",
+    "category": "SERVICEs"
   }
 ]

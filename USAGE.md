@@ -31,6 +31,7 @@ https://watanabe3tipapa.github.io/links/
 - **All**: 全サイト表示（デフォルト）
 - **SITE**: サブサイト
 - **TOOL**: ツール・アプリケーション
+- **SERVICEs**: Cloudflare Workers サービス
 
 タグフィルタと検索バーは併用可能です。
 例: タグを「Site」にした状態で検索すると、Site カテゴリ内からさらに絞り込みます。
