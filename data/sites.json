@@ -1,0 +1,26 @@
+[
+  {
+    "title": "main",
+    "url": "https://watanabe3ti.com",
+    "desc": "メインサイト（Mac OS 9 デスクトップ）",
+    "category": "Site"
+  },
+  {
+    "title": "next",
+    "url": "https://next.watanabe3ti.com",
+    "desc": "次世代パブリッシング（Quarto）",
+    "category": "Site"
+  },
+  {
+    "title": "toolsmith",
+    "url": "https://toolsmith.watanabe3ti.com",
+    "desc": "Toolsmith プロジェクト",
+    "category": "Site"
+  },
+  {
+    "title": "log",
+    "url": "https://log.watanabe3ti.com",
+    "desc": "ブログ・ログ",
+    "category": "Site"
+  }
+]
