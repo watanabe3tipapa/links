@@ -58,5 +58,17 @@
     "url": "https://quarto-editor-pe.vercel.app",
     "desc": "Quarto Editor PE",
     "category": "TOOL"
+  },
+  {
+    "title": "right-stuff-editor",
+    "url": "https://right-stuff-editor.vercel.app",
+    "desc": "Right Stuff Editor",
+    "category": "TOOL"
+  },
+  {
+    "title": "toolsmith-editor",
+    "url": "https://toolsmith-editor.vercel.app",
+    "desc": "Toolsmith Editor",
+    "category": "TOOL"
   }
 ]

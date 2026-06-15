@@ -38,6 +38,8 @@ watanabe3tipapa の複数サブサイトを一元管理するリンク集。
 | wiki | https://wiki.watanabe3ti.com/wiki3/ | 個人Wiki・備忘録 | SITE |
 | next-path | https://watanabe3ti.com/next/ | Takeoff to Wonder ランディング | SITE |
 | quarto-editor | https://quarto-editor-pe.vercel.app | Quarto Editor PE | TOOL |
+| right-stuff-editor | https://right-stuff-editor.vercel.app | Right Stuff Editor | TOOL |
+| toolsmith-editor | https://toolsmith-editor.vercel.app | Toolsmith Editor | TOOL |
 
 ---
 
