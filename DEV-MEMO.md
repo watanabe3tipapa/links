@@ -70,10 +70,9 @@ watanabe3tipapa の複数サブサイトを一元管理するリンク集。
   - データカウンター表示（"2 / 4" 形式）
   - sites.json から fetch で動的読み込み
 
-### Phase 3: デプロイ 🚧
+### Phase 3: デプロイ ✅
 
 ```bash
-cd /Users/watanabe3tipapa/Sites/watanabe3ticom/links
 git init
 git add .
 git commit -m "Initial commit: unified links site with Neo Brutalism"
@@ -81,8 +80,26 @@ git remote add origin https://github.com/watanabe3tipapa/links
 git push -u origin main
 ```
 
-- GitHub リポジトリ Settings → Pages → Source: `Deploy from branch: main, / (root)` → Save
+- ✅ リモート `origin` を `https://github.com/watanabe3tipapa/links` に設定
+- ✅ `main` ブランチにプッシュ完了
 - 公開 URL: `https://watanabe3tipapa.github.io/links/`
+
+**GitHub Pages 有効化（手動操作が必要）**:
+1. GitHub リポジトリ https://github.com/watanabe3tipapa/links を開く
+2. Settings → Pages
+3. Source: `Deploy from branch`
+4. Branch: `main`, folder: `/ (root)` → Save
+5. 数分待つと公開される
+
+### Phase 3.5: ドキュメント整備 ✅
+
+- `USAGE.md` を作成
+  - 基本操作（検索/フィルタ/カテゴリ）
+  - サイト追加・編集手順（sites.json の書式）
+  - デザインカスタマイズ方法（色・影・フォント）
+  - OGP 設定
+  - デプロイ・メンテナンス手順
+  - トラブルシューティング
 
 ### Phase 4: 後日可能な拡張
 
