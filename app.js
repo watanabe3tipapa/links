@@ -30,8 +30,7 @@ function renderCards(list) {
         </div>
       </div>
       <div class="actions">
-        <a class="btn btn-primary" href="${s.url}" target="_blank" rel="noopener">Visit</a>
-        <a class="btn btn-outline" href="${s.url}" target="_blank" rel="noopener">Open</a>
+        <a class="btn btn-primary" href="${s.url}" target="_blank" rel="noopener">Open</a>
       </div>
     `;
     grid.appendChild(card);
